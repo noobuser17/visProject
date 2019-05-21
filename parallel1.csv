@@ -1,7 +1,0 @@
-age,year,suicides/100k,gdp_per_capita ($),Species
-15,1985,53.57,19693,setosa
-35,1990,22222.2,setosa
-75,1995,45.9,40000.1,versicolor
-24,2000,24.1,31111.3,versicolor
-56,2005,35.4,23333.3,virginica
-80,2015,15.1,51000.8,virginica
