@@ -1,7 +1,0 @@
-age,year,suicides/100k,gdp_per_capita ($),HDI,Generation,sex
-15,1985,53.57,19693,0.841,Boomers,male
-35,1990,40,22222.2,0.865,Boomers,male
-75,1995,45.9,40000.1,0.865,GenerationZ,female
-24,2000,24.1,31111.3,0.89,GenerationX,female
-56,2005,35.4,23333.3,0.89,GenerationX,female
-80,2015,15.1,51000.8,0.841,GenerationZ,male
